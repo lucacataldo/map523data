@@ -1,0 +1,12 @@
+{
+"student": "Luca Cataldo",
+"timestamp": "2020-01-13T11:39:12+0000",
+"version": "1.0.0",
+"count": 4,
+"data": [
+  {"id": 23, "courseCode": "MAP523", "courseName": "IOS Development"},
+  {"id": 24, "courseCode": "SPO600", "courseName": "Software Portability"},
+  {"id": 25, "courseCode": "PRJ666", "courseName": "Project"},
+  {"id": 26, "courseCode": "MAP523", "courseName": "Project Management"}
+]
+}
