@@ -7,6 +7,7 @@
     {"id": 23, "courseCode": "MAP523", "courseName": "IOS Development"},
     {"id": 24, "courseCode": "SPO600", "courseName": "Software Portability"},
     {"id": 25, "courseCode": "PRJ666", "courseName": "Project"},
-    {"id": 26, "courseCode": "MAP523", "courseName": "Project Management"}
+    {"id": 26, "courseCode": "MAP523", "courseName": "Project Management"},
+    {"id": 27, "courseCode": "TEST", "courseName": "TEST"}
   ]
 }
